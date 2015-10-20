@@ -2,7 +2,10 @@
 
 The do now activity for this session is to write out the rules and conditions for Rock, Paper, Scissors on a piece of paper.
 
-**Step one:** complete the chart below on your piece of paper.
+
+**Step one:** On a  piece of paper, write out the basic rules to the game of Rock, Paper, Scissors. Make sure you describe EVERYTHING - rules, how to start the game, and how the game ends. 
+
+**Step two:** complete the chart below on your same piece of paper.
 
 | Player1  |  Player2 |  Winner |
 |----------|----------|---------|
@@ -16,9 +19,6 @@ The do now activity for this session is to write out the rules and conditions fo
 | Scissors | Paper    |         |
 | Scissors | Scissors |         |
 
-
-
-**Step two:** On that same piece of paper with the column chart, write out the basic rules to the game of Rock, Paper, Scissors
 
 
 **NOTE:** If you don't know how to play, play a few games with a teacher or someone next to you.
